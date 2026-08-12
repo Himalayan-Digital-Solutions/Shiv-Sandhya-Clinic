@@ -1,0 +1,18 @@
+<svg xmlns="http://www.svg.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Outer Arch -->
+  <path d="M 30,120 A 70,70 0 0,1 170,120" fill="none" stroke="#0F4C81" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- Caduceus Staff -->
+  <rect x="94" y="30" width="12" height="70" fill="#0F4C81" rx="6"/>
+  <circle cx="100" cy="22" r="10" fill="#0F4C81"/>
+  
+  <!-- Wings -->
+  <path d="M 94,45 Q 40,25 45,65 Q 75,70 94,55" fill="#0F4C81"/>
+  <path d="M 106,45 Q 160,25 155,65 Q 125,70 106,55" fill="#0F4C81"/>
+  
+  <!-- Snakes -->
+  <path d="M 82,75 Q 100,55 118,75 T 82,95" fill="none" stroke="#0F4C81" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- SSC Text -->
+  <text x="100" y="165" font-family="'Inter', sans-serif" font-size="54" font-weight="900" fill="#0F4C81" text-anchor="middle" letter-spacing="4">SSC</text>
+</svg>
